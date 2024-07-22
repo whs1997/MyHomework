@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\MyHomework\\OOP_Class_exercise\\OOP_Class_exercise.csproj",
-      "projectName": "OOP_Class_exercise",
-      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\MyHomework\\OOP_Class_exercise\\OOP_Class_exercise.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\MyHomework\\240722\\240722.csproj",
+      "projectName": "240722",
+      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\MyHomework\\240722\\240722.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\MyHomework\\OOP_Class_exercise\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\MyHomework\\240722\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("OOP_Class_exercise")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("240722")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9defd6a0d406fd7f57ec5e0cfdd52bef1fbe1c22")]
-[assembly: System.Reflection.AssemblyProductAttribute("OOP_Class_exercise")]
-[assembly: System.Reflection.AssemblyTitleAttribute("OOP_Class_exercise")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b382011d049e0545f031129fe795c2dba78dea38")]
+[assembly: System.Reflection.AssemblyProductAttribute("240722")]
+[assembly: System.Reflection.AssemblyTitleAttribute("240722")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

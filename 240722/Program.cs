@@ -1,4 +1,4 @@
-﻿namespace OOP_Class_exercise
+﻿namespace _240722
 {
     internal class Program
     {
@@ -13,7 +13,7 @@
             // 메서드, 개체가 가지는 동작
             public void MoveFront() // 전진
             {
-                
+
             }
 
             public void MoveBackward() // 후진
